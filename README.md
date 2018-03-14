@@ -22,8 +22,6 @@ If you’re having trouble seeing the prototype, check out [Principle Docs](http
 ## Pitch Deck and Other Stuff
 To know more about this project, check out the [Pitch Deck](_docs_readme/pitch_payup.key "PayUp Keynote Pitch Deck").
 
-Full Case Study Coming soon!
-
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="363" height="427" />
-
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype-principle/master/_images_readme/payup-bot.gif" width="363" height="427" />
+
+Full Case Study Coming soon!
