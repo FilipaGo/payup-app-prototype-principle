@@ -26,6 +26,4 @@ Full Case Study Coming soon!
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="363" height="427" />
 
-<img src="_images_readme/payup-bot.gif" width="363" height="427" />
-
-![PayUp Bot](_images_readme/payup-bot.gif)
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype-principle/master/_images_readme/payup-bot.gif" width="363" height="427" />
