@@ -8,7 +8,7 @@ Userflow – Bot Walk Through:
 *	Add an Expense to that Group.
 
 ## Running prototype on Mac
-If you’d like to see and interact with the prototype on your Mac, download the standalone Mac app (.app file).
+If you’d like to see and interact with the prototype on your Mac, download the standalone Mac app (09_bot-walkthrough.zip file).
 
 Notice that the app only runs on Mac.
 
