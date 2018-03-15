@@ -4,8 +4,9 @@ Userflow – Bot Walk Through:
 
 *	Login with Email and Password;
 *	Access Bot;
-*	Create a Group;
-*	Add an Expense to that Group.
+*	Create a Group to share expenses with Ana Sousa and Catarina Maia (search for Catarina Maia);
+*	Add an Expense to that Group;
+* Go back to the Home Screen;
 
 ## Running prototype on Mac
 If you’d like to see and interact with the prototype on your Mac, download the standalone Mac app (09_bot-walkthrough.zip file).
@@ -13,7 +14,7 @@ If you’d like to see and interact with the prototype on your Mac, download the
 Notice that the app only runs on Mac.
 
 ## Running prototype on iOS Device
-If you’d like to see and interact with the prototype on your iOS device, install [Principle Mirror](https://itunes.apple.com/us/app/principle-mirror-ui-design/id991911319?ls=1&mt=8) and download the .prd file (09_bot-walkthrough.prd file). Safari will show an "Open in Principle" button.
+If you’d like to see and interact with the prototype on your iOS device, install [Principle Mirror](https://itunes.apple.com/us/app/principle-mirror-ui-design/id991911319?ls=1&mt=8) on your phone and download the .prd file (09_bot-walkthrough.prd file).
 
 ***
 
