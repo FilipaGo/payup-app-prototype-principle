@@ -6,7 +6,7 @@ Userflow – Bot Walk Through:
 *	Access Bot;
 *	Create a Group to share expenses with Ana Sousa and Catarina Maia (search for Catarina Maia);
 *	Add an Expense to that Group;
-* Go back to the Home Screen;
+* Go back to the Home Screen.
 
 ## Running prototype on Mac
 If you’d like to see and interact with the prototype on your Mac, download the standalone Mac app (09_bot-walkthrough.zip file).
