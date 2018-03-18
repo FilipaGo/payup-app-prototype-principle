@@ -1,5 +1,7 @@
 # PayUp App - Principle Prototype and Motion Study
 
+PayUp is a mobile app to manage shared expenses, receive and pay debts, without the need to expose banking information. All you need is a mobile phone number.
+
 **Userflow – Bot Walk Through:**
 
 *	Login with Email and Password;
