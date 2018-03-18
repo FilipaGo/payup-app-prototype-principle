@@ -8,6 +8,10 @@
 *	Add an Expense to that Group;
 * Go back to the Home Screen.
 
+<img src="https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_images_readme/payup_demo.gif" width="300" />
+
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype-principle/master/_images_readme/payup_demo.gif" width="300" />
+
 ## Running prototype on Mac
 If you’d like to see and interact with the prototype on your Mac, [Download the standalone Mac app](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/09_bot-walkthrough.zip).
 
