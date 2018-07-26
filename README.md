@@ -31,12 +31,12 @@ Given time constraints, I only prototyped (in Principle) the flow I worked on in
 <img src="https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_images_readme/payup_demo.gif" width="250" />
 </p>
 
-## Running prototype on Mac (instructions)
+## Running the prototype on a Mac (instructions)
 If you’d like to see and interact with the prototype on your Mac, [Download the standalone Mac app](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/09_bot-walkthrough.zip).
 
 Notice that the app only runs on Mac.
 
-## Running prototype on iOS Device (instructions)
+## Running the prototype on an iOS Device (instructions)
 If you’d like to see and interact with the prototype on your iOS device, install [Principle Mirror](https://itunes.apple.com/us/app/principle-mirror-ui-design/id991911319?ls=1&mt=8) on your phone and [Download the .prd file](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/09_bot-walkthrough.prd). Email the file to your device and open it with Principle Mirror.
 
 ***
