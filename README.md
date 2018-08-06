@@ -13,9 +13,9 @@ Even though all team members were involved in all project phases, we each chose 
 1. Walkthrough mode (conversational design)
 2. Power User mode (chatbot)
 
-## Prototype
+## Principle Prototype
 
-I used Principle to emulate the micro-interactions in a more organic way and explore how motion could be implemented in PayUp's app. This helped me grasp the app's flow and functionality on a deeper level.
+I used Principle to emulate the micro-interactions in a more organic way and explore how motion could be implemented in PayUp's app. This helped me grasp the app's flow, functionality and behaviour on a deeper level.
 
 Given time constraints, I only prototyped (in Principle) the flow I worked on in walkthrough mode.
 
