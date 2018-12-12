@@ -41,7 +41,7 @@ If you’d like to see and interact with the Principle prototype on your iOS dev
 
 ***
 
-Trouble seeing the prototype? check out the [Principle Docs](http://principleformac.com/docs.html#sharing) for more information.
+Having trouble seeing the prototype? check out the [Principle Docs](http://principleformac.com/docs.html#sharing) for more information.
 
 ## Case Study and Pitch Deck
 
